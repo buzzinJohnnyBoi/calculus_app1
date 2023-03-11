@@ -1,0 +1,27 @@
+input {
+    width: 80px;
+    height: 30px;
+    font-size: 25px;
+    text-align: right;
+}
+
+select {
+    font-size: 25px;
+
+}
+
+.input-vectors {
+    padding: 10px;
+}
+
+.input-vectors b {
+    font-size: 40px;
+    padding: 5px;
+} 
+
+.input-vectors p {
+    font-size: 25px;
+    display: inline-block;
+    padding: 2px;
+    margin: 0;
+} 
